@@ -2,7 +2,7 @@ class Arith
 {
  public static void main(String args[])
  {
-/*
+
    int a,b,c,d;
    a=b=c=d=20;
    System.out.println("A: "+a);
@@ -10,7 +10,7 @@ class Arith
    System.out.println("C: "+c);
    System.out.println("D: "+d); 
  
-*/
+
 
    byte b=30;
   // b=b++;
